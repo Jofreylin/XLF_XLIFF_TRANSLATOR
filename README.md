@@ -174,6 +174,25 @@ To run the script, use the following command:
 python translator.py
 ```
 
+## Example XML Structure
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1694073859578581253" datatype="html">
+        <source>Dividend and Stock Returns Forecaster</source>
+        <target></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/calculator/calculator.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+```
+
 
 ---
 ## Explicación en Español
@@ -221,4 +240,20 @@ pip install -r requirements.txt
 Para ejecutar el script, usa el siguiente comando:
 ```bash
 python translator.py
+```
+
+## Estructura de Ejemplo XML
+
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1694073859578581253" datatype="html">
+        <source>Dividend and Stock Returns Forecaster</source>
+        ...
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
 ```
