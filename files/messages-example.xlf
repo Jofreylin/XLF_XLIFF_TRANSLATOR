@@ -189,14 +189,6 @@
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4907727529030286359" datatype="html">
-        <source>dividend, stock returns, forecaster, investment, compound interest, share price, initial investment, monthly contribution, CAGR, DRIP</source>
-        <target></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/pages/calculator/calculator.component.ts</context>
-          <context context-type="linenumber">45</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="2092932773061568591" datatype="html">
         <source>Jofreylin Perez Valdez</source>
         <target></target>
