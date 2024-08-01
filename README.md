@@ -7,6 +7,8 @@ This project is an XLF - XLIFF file translator with XML structure. It allows you
 - Translates the content of `<source>` to `<target>` using Google Translator.
 - Handles files with `.xml`, `.xlf`, `.xliff` extensions.
 - Automates the translation process while maintaining the XML structure.
+- Excellent choice for i18n.
+- Working perfect for Angular Internationalization. 
 
 ## Requirements
 
@@ -204,6 +206,8 @@ Este proyecto es un traductor de archivos XLF - XLIFF con estructura XML. Permit
 - Traduce el contenido de `<source>` a `<target>` utilizando Google Translator.
 - Maneja archivos con extensiones `.xml`, `.xlf`, `.xliff`.
 - Automatiza el proceso de traducción manteniendo la estructura XML.
+- Excelente elección para i18n.
+- Funcionando de manera perfecta con "Angular Internationalization".
 
 ## Requisitos
 
