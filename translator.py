@@ -1,4 +1,4 @@
-import os
+import os 
 from lxml import etree
 from deep_translator import GoogleTranslator
 
