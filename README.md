@@ -21,14 +21,12 @@ It is recommended to create a virtual environment to manage the project's depend
 ### Create a virtual environment
 
 #### Windows
-
 ```bash
 python -m venv venv
-.
-env\Scripts ctivate
+.\venv\Scripts\activate
 ```
 
-#### macOS and Linux
+#### macOS y Linux
 ```bash
 python3 -m venv venv
 source venv/bin/activate
