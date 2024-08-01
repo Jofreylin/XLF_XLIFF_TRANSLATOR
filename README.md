@@ -25,3 +25,22 @@ Se recomienda crear un ambiente virtual para gestionar las dependencias del proy
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
+```
+
+#### macOS y Linux
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Instalar las dependencias
+Con el ambiente virtual activado, instala las dependencias:
+```bash
+pip install -r requirements.txt
+```
+
+## Ejecutar el script
+Para ejecutar el script, usa el siguiente comando:
+```bash
+python translator.py
+```
