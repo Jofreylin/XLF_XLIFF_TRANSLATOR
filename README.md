@@ -194,7 +194,14 @@ python translator.py
   </file>
 </xliff>
 ```
+## Disclaimer
+This script is designed to translate XLF and XLIFF files with XML structures using third-party libraries. **It is not recommended for commercial production use.** This tool is intended primarily for testing and personal use applications.
 
+### Please Note:
+1. **Third-Party Libraries**: The reading and translation of files are handled by third-party libraries. These libraries are subject to their own terms of service and licensing agreements. The reliability and accuracy of the translations depend on these external libraries.
+2. **Data Privacy**: Be cautious when uploading sensitive or confidential files. While efforts are made to handle data securely, this application is not intended for handling sensitive information.
+3. **Verification**: You can verify the libraries and their implementation by reviewing the source code of this project available on GitHub.
+4. **No Warranty**: This application is provided "as is" without any warranties of any kind, express or implied. The developers are not responsible for any damages or losses resulting from the use of this tool.
 
 ---
 ## Explicación en Español
